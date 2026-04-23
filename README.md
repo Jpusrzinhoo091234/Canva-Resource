@@ -1,8 +1,8 @@
-<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/a23d8234-d60f-4f79-9f14-9c8c49e0cf30" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a23d8234-d60f-4f79-9f14-9c8c49e0cf30" />
 
 # Canva Pro: Professional Design & Branding Resource
 
-[![Stars](https://img.shields.io/github/stars/Jpusrzinhoo091234/Canva-Resource)](https://github.com/Jpusrzinhoo091234/Canva-Resource) [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/Jpusrzinhoo091234/Canva-Resource)](https://github.com/Jpusrzinhoo091234/Canva-Resource) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Canva Pro Resource** is a premium environment designed for professional designers, marketers, and content creators. This suite provides a streamlined interface for the 2026 Pro release, featuring unlimited access to high-fidelity assets, advanced brand management tools, and AI-driven design automation to accelerate your creative workflow on Windows.
 Unlock the full potential of visual storytelling: featuring one-click background removal, Magic Resizer for multi-platform publishing, and an expansive library of premium typography and motion graphics.
