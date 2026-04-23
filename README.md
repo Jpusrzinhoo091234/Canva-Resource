@@ -7,7 +7,7 @@
 **Canva Pro Resource** is a premium environment designed for professional designers, marketers, and content creators. This suite provides a streamlined interface for the 2026 Pro release, featuring unlimited access to high-fidelity assets, advanced brand management tools, and AI-driven design automation to accelerate your creative workflow on Windows.
 Unlock the full potential of visual storytelling: featuring one-click background removal, Magic Resizer for multi-platform publishing, and an expansive library of premium typography and motion graphics.
 
-<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/43752b57-a765-4d6a-8e2f-c9dce3d7484f" />
+<img width="1024" height="633" alt="image" src="https://github.com/user-attachments/assets/9761a437-86bf-429f-911f-1b164ac851f8" />
 
 ---
 
